@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A Unity Game](https://github.com/JJoeyIssa/UnityGame)
 
-- 🌱 I’m currently learning **C# and C++**
+- 🌱 I’m currently learning **C#, HTML, CSS, Javascript and C++**
 
 - 📫 How to reach me **joeyissa59@gmail.com**
 
