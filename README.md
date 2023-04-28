@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joey Issa</h1>
 <h3 align="center">A passionate future developer in Canada!</h3>
 
-- 🔭 I’m currently working on [A Unity Game](https://github.com/JJoeyIssa/UnityGame)
+- 🔭 I’m currently working on [A Unity Game](https://github.com/JJoeyIssa/Top-Down-RPG)
 
 - 🌱 I’m currently learning **C#, HTML, CSS, Javascript and C++**
 
