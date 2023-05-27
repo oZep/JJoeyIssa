@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A Unity Game](https://github.com/JJoeyIssa/Top-Down-RPG)
 
-- 🌱 I’m currently learning **C#, HTML, CSS, Javascript and C++**
+- 🌱 I’m currently learning **C#, and Javascript**
 
 - 📫 How to reach me **joeyissa59@gmail.com**
 
