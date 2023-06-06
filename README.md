@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joey-issa-889089227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joey-issa-889089227/" height="30" width="40" /></a>
+ <p></p
 <a href="https://devpost.com/JJoeyIssa?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/625987202909085696/KKYbLP8y_400x400.jpg" alt="https://devpost.com/JJoeyIssa?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" height="30" width="40" /></a>
 </p>
 
