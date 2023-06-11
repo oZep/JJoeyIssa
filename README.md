@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joey Issa</h1>
 <h3 align="center">A passionate future developer in Canada!</h3>
 
-- 🔭 I’m currently working on [A Unity Game](https://github.com/JJoeyIssa/Top-Down-RPG)
+- 🔭 I’m currently working on [A Game](https://itch.io/jam/uottawa-june-jam-2023-nature-strikes-back) for the June Game Jam hosted by the uOttawa Game Dev Club
 
-- 🌱 I’m currently learning **C#, and Javascript**
+- 🌱 I’m currently learning **Javascript and jQuery**
 
 - 📫 How to reach me **joeyissa59@gmail.com**
 
