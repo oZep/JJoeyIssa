@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jjoeyissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jjoeyissa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joey issa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joey issa" height="30" width="40" /></a>
+<a href="https://devpost.com/JJoeyIssa?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jjoeyissa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joey-issa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joey issa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
